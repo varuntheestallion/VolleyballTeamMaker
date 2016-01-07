@@ -5,4 +5,4 @@ Next steps are creating teams out of the bank of players, and implementing remot
 
 ![volleyballteammakerimage1](https://cloud.githubusercontent.com/assets/16373449/12180170/dd45e18e-b52f-11e5-9b2e-1d4c696444fa.png)
 
-![volleyballteammakerimage1](https://cloud.githubusercontent.com/assets/16373449/12180170/dd45e18e-b52f-11e5-9b2e-1d4c696444fa.png)
+![volleyballteammakerimage2](https://cloud.githubusercontent.com/assets/16373449/12180052/463f1e22-b52f-11e5-970f-946e3c82e9ce.png)
